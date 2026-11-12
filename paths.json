@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/ref-demo-updated/language-masters/en:/",
-    "/content/ref-demo-updated/language-masters/en/:/en/",
-    "/content/ref-demo-updated/language-masters/fr/:/fr/",
-    "/content/ref-demo-updated/language-masters/fr:/fr",
-    "/content/ref-demo-updated/language-masters/es/:/es/",
-    "/content/ref-demo-updated/language-masters/es:/es",
-    "/content/ref-demo-updated/language-masters/ja/:/ja/",
-    "/content/ref-demo-updated/language-masters/ja:/ja",
-    "/content/ref-demo-updated/language-masters/de/:/de/",
-    "/content/ref-demo-updated/language-masters/de:/de",
-    "/content/ref-demo-updated/configuration:/.helix/config.json",
-    "/content/ref-demo-updated/metadata:/metadata.json",
-    "/content/ref-demo-updated/redirects:/redirects.json",
-    "/content/ref-demo-updated/placeholders:/placeholders.json"
+    "/content/ref-demo-doc/language-masters/en:/",
+    "/content/ref-demo-doc/language-masters/en/:/en/",
+    "/content/ref-demo-doc/language-masters/fr/:/fr/",
+    "/content/ref-demo-doc/language-masters/fr:/fr",
+    "/content/ref-demo-doc/language-masters/es/:/es/",
+    "/content/ref-demo-doc/language-masters/es:/es",
+    "/content/ref-demo-doc/language-masters/ja/:/ja/",
+    "/content/ref-demo-doc/language-masters/ja:/ja",
+    "/content/ref-demo-doc/language-masters/de/:/de/",
+    "/content/ref-demo-doc/language-masters/de:/de",
+    "/content/ref-demo-doc/configuration:/.helix/config.json",
+    "/content/ref-demo-doc/metadata:/metadata.json",
+    "/content/ref-demo-doc/redirects:/redirects.json",
+    "/content/ref-demo-doc/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/ref-demo-updated/",
-    "/content/dam/ref-demo-updated/"
+    "/content/ref-demo-doc/",
+    "/content/dam/ref-demo-doc/"
   ]
 }
